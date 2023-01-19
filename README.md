@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SERAproject
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Enhancing Supply Chain via DeFi and Blockchain.
+SERA is a decentralized protocol that adds DeFi Power to ERP via blockchain.
+SERA blockchain-based protocol reduces the cost of audits, enhances data integrity, enables multiparty data sharing, and provides a foundation for global DeFi-enabled commerce.
 
-<!---
-SERAproject/SERAproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
